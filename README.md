@@ -1,8 +1,28 @@
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
 
+# 👨‍💻 Fullstack Developer | Passionate About Continuous Learning  
 
-# Hey! 👋 Nice to see you.
+Hi there! 👋 I'm a fullstack developer with a strong focus on **frontend development** and a trained eye for **web design**. I specialize in creating intuitive and visually compelling user experiences, complemented by solid backend solutions to ensure performance and scalability.  
+
+## 💡 About Me  
+- **Lifelong Learner:** Constantly exploring new technologies and honing my skills.  
+- **Problem Solver:** Passionate about finding innovative solutions to complex challenges.  
+- **Team Player:** I thrive in collaborative environments and value diverse perspectives.  
+
+## 🚀 Current Work  
+I'm currently working on projects that merge design and functionality, diving deeper into backend development, and exploring advanced tools to craft impactful web experiences.  
+
+## 🌟 Career Goals  
+I'm actively seeking freelance or full-time opportunities where I can apply my expertise, learn from other professionals, and continue growing in the exciting field of web development.  
+
+## 📫 Let's Connect!  
+Feel free to reach out to discuss projects, opportunities, or simply to share ideas. I'm always open to new challenges and ready to contribute!  
+
+🌐 **In progress**  
+✉️ **rodrigolv.975@gmail.com**  
+
+
 
 <h2>My skills</h2>
 <h3>DataBase</h3>
