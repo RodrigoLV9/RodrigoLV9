@@ -19,7 +19,7 @@ I'm actively seeking freelance or full-time opportunities where I can apply my e
 ## 📫 Let's Connect!  
 Feel free to reach out to discuss projects, opportunities, or simply to share ideas. I'm always open to new challenges and ready to contribute!  
 
-🌐 **In progress**  
+🌐 **In progress...**  
 ✉️ **rodrigolv.975@gmail.com**  
 
 
