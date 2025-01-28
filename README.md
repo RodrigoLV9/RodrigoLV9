@@ -16,7 +16,7 @@ I'm currently working on projects that merge design and functionality, diving de
 ## 🌟 Career Goals  
 I'm actively seeking freelance or full-time opportunities where I can apply my expertise, learn from other professionals, and continue growing in the exciting field of web development.  
 
-## 📫 Let's Connect!  
+## 📫Let's Connect!  
 Feel free to reach out to discuss projects, opportunities, or simply to share ideas. I'm always open to new challenges and ready to contribute!  
 
 🌐 **In progress...**  
